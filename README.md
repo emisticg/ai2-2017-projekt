@@ -1,8 +1,8 @@
-#Aplikacja Webowa do predykcji obciążenia resteuracji na podstawie danych historycznych.
+# Aplikacja Webowa do predykcji obciążenia resteuracji na podstawie danych historycznych.
 
 ---
 
-##Autorzy
+## Autorzy
 
 	* Mateusz Tasz
 	* Łukasz Wiącek
@@ -10,13 +10,13 @@
 
 ---
 
-#Główne Założenia projektu.
+# Główne Założenia projektu.
 
-##Cel: 
+## Cel: 
 
 Stworzenie aplikacji webowej umożliwiającej przewidywanie poziomu obciążenia resteuracji na podstawie danych z poprzednich tygodni.
 
-##Sposób przedstawienia danych:
+## Sposób przedstawienia danych:
 
 Aplikacja wyświetla wykres, który przestawia obciążenie resteuracji w poprzednich tygodniach aż do dnia dzisiejszego, następnie tworzy dalszą część wykresu na podstawie danych historycznych stara się przewidzieć obciążenie resteuracji w najbliższych dniach.
 
@@ -40,7 +40,7 @@ Aplikacja powinna być przejrzysta oraz ma jasno przestwiać użytkownikowi potr
 
 ---
 
-#Metody testowania
+# Metody testowania
 
 Testowanie będzie polegać na uzupełnieniu bazy danych przykładowymi danymi.
 Aplikacja pobierze dane do wykresu oraz predykcji.
