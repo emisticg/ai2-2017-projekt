@@ -33,10 +33,10 @@ Aplikacja powinna być przejrzysta oraz ma jasno przestwiać użytkownikowi potr
 
 # Wykorzystana Technologia
 
-*Język programowania: Python
-*Framework: Django
-*Baza danych: MySQL
-*Dodatkowe Biblioteki
+	*Język programowania: Python
+	*Framework: Django
+	*Baza danych: MySQL
+	*Dodatkowe Biblioteki
 
 ---
 
